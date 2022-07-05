@@ -1,0 +1,225 @@
+
+
+.Canceled{
+    width: 83px;
+    font-size: 13px;
+    background-color: #fa0000 !important;
+    color: white;
+    padding: 5px 10px;
+    box-shadow: none;
+    border: none;
+    margin-top: 8px;
+  }
+  .Completed{
+    width: 83px;
+    font-size: 13px;
+    background-color: #2e8807 !important;
+    color: white;
+    padding: 5px 10px;
+    box-shadow: none;
+    border: none;
+    margin-top: 8px;
+  }
+
+  /* .Canceled1{
+
+    color: #fc1010;
+
+  }
+  .Completed1{
+
+    color: #2c8008 ; */
+
+
+
+
+  .search-section1{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    margin: 0px 20px;
+    border: 1px solid #e1e1e1;
+    padding: 20px 15px;
+    margin-bottom: 20px;
+
+
+  }
+  .w240 {
+    width: 240px !important;
+  }
+  .w220{
+    width: 127px !important;
+    height: 46px !important;
+  }
+  .w152{
+    width: 162px !important;
+    height: 46px !important;
+  }
+  .w120{
+    width: 120px !important;
+    height: 46px !important;
+  }
+  .w190{
+    width: 190px !important;
+    height: 46px !important;
+  }
+  .w140{
+    width: 140px !important;
+    height: 46px !important;
+  }
+  .w205{
+    width: 205px !important;
+    height: 46px !important;
+  }
+  .w219{
+    width: 219px !important;
+    height: 46px !important;
+  }
+  .w200{
+    width: 205px !important;
+    height: 36px !important;
+  }
+  .w400{
+    width: 450px !important;
+    height: 60px !important;
+  }
+  .w401{
+    width: 450px !important;
+    height: 50px !important;
+  }
+  .input-wrapper {
+    width: 145px;
+    position: relative;
+    display: inline-block;
+    margin-right: 5px;
+    top: 2px;}
+     .input-wrapper img {
+        height: 20px;
+        width: 20px;
+        top: 12px;
+        left: 12px;
+        position: absolute;
+        content: "";
+        z-index: 0;
+    }
+  .checkbox.inline {
+    display: inline-block;
+  }
+  .checkbox, .radio {
+    position: relative;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #646464;
+  }
+  ul{
+    list-style: none;
+  }
+
+  .buttons button {
+    font-size: 16px;
+    border-radius: 4px;
+    width: 84px;
+    height: 50px;
+  }
+  .buttons{
+    display: flex;
+    margin-top: 20px;
+  }
+  .search {
+    background-color: #1fb4ff;
+    color: white;
+    width: 84px;
+    height: 46px;
+    border: 1px solid #1fb4ff;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+  .row{
+    padding:0px 10px;
+  }
+
+  .clear {
+    border: none;
+    background-color: white;
+    color: #646464;
+    border: 1px solid gray;
+    margin-top: 10px;
+  }
+  /* .form-control {
+    background: #fff;
+    font-size: 16px;
+    line-height: 20px;
+    color: #646464;
+    width: 110px;
+    height: 46px;
+    padding: 12px 10px;
+    box-shadow: none;
+    border: 1px solid #dedddd;
+    resize: vertical;
+    height: 46px;
+    resize: none;
+  } */
+  .control-list{
+    margin-bottom: -15px;
+  }
+  .control-list>li {
+    vertical-align: top;
+    display: inline-block;
+    margin-bottom: 15px;
+    padding-right: 8px;
+  }
+
+  .btnaddnewadd{
+    background-color: white;
+    color: #1d7a8c;
+    border:1px solid #1d7a8c;
+    margin-top: 20px;
+     padding:7px 25px;
+    border-radius: 50px;
+}
+.btnaddnewadd:hover{
+    border:1px solid white;
+    color: white;
+    background-color: #1d7a8c;
+}
+.btnsave{
+    background-color: #1d7a8c;
+    color: white;
+    border:1px solid #1d7a8c;
+    margin-top: 20px;
+    border-radius: 50px;
+    padding: 7px 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.btndelete{
+
+    color: white;
+
+    margin-top: 20px;
+    border-radius: 50px;
+    padding: 7px 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.btncancel{
+    /* background-color: #f8f8f8; */
+    margin-left: 20px;
+    border-radius: 50px;
+    padding: 7px 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* border-color: #666;
+    color: #666; */
+}
+
+
+
+
+
+

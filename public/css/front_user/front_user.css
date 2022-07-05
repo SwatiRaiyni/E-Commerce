@@ -1,0 +1,26 @@
+.alertnew{
+    padding: 20px !important;
+    background-color: #f44336 !important;
+    color: white !important;
+  }
+  .alertnew1{
+    padding: 20px !important;
+    background-color: #2FB886 !important;
+    color: white !important;
+  }
+
+
+.closebtn{
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover{
+    color: black;
+}
